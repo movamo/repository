@@ -16,10 +16,10 @@
   ],
   "require": {
     "php": ">=5.5.9",
-    "illuminate/support": "^5.2",
-    "illuminate/database": "^5.2",
-    "illuminate/filesystem": "^5.2",
-    "illuminate/console": "^5.2"
+    "illuminate/support": "^7.6",
+    "illuminate/database": "^7.6",
+    "illuminate/filesystem": "^7.6",
+    "illuminate/console": "^7.6"
   },
   "require-dev": {
     "mockery/mockery": "dev-master@dev"
